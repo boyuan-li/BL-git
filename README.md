@@ -12,5 +12,6 @@ git commit -m '20211212git review'
 git push origin 20211212git
 git status 
 
+cd\
 rm -rf BL-git
 ```
